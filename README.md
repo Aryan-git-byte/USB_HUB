@@ -23,7 +23,7 @@ you can see the routing & layout of the PCB in this image.
 This is the Case of the PCB, which will hold the pcb in it. also this isnt final yet , like i m bit unsure about the dimensions. so i will update this after pcb arrives, and i actually measure it and fine tune the parameters.
 
 # Cart:
-![cart](image.png)
+![cart](cart.png)
 
 this is the total expense of the project which breakdowns to:
 - 2 usd for the PCB
