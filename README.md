@@ -16,6 +16,8 @@ Starting off it has a usb-c input port, which goes to the usb-hub ic and further
 
 # PCB Overview:
 ![PCB](pcb.png)
+![PCB](pcb-3d.png)
+
 you can see the routing & layout of the PCB in this image.
 
 # Case Overview:
@@ -26,6 +28,6 @@ This is the Case of the PCB, which will hold the pcb in it. also this isnt final
 ![cart](cart.png)
 
 this is the total expense of the project which breakdowns to:
-- 2 usd for the PCB
+- 4 usd for the PCB
 - 22.44 usd for the PCBA
 - 10.53 usd for the shipping which is E-Post
