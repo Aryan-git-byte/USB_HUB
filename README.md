@@ -16,7 +16,7 @@ Starting off it has a usb-c input port, which goes to the usb-hub ic and further
 
 # PCB Overview:
 ![PCB](pcb.png)
-![PCB](pcb-3d.png)
+![pcb-3d](pcb3d.png)
 
 you can see the routing & layout of the PCB in this image.
 
