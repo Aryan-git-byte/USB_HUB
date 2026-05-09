@@ -18,6 +18,8 @@ Starting off it has a usb-c input port, which goes to the usb-hub ic and further
 ![PCB](images/pcb.png)
 ![pcb-3d](images/pcb3d.png)
 
+
+
 you can see the routing & layout of the PCB in this image.
 
 # Case Overview:
@@ -27,7 +29,6 @@ This is the Case of the PCB, which will hold the pcb in it. also this isnt final
 # Cart:
 ![cart](images/cart.png)
 
-# BOM:
 
 # BOM:
 
