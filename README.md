@@ -27,9 +27,9 @@ you can see the routing & layout of the PCB in this image.
 This is the Case of the PCB, which will hold the pcb in it. also this isnt final yet , like i m bit unsure about the dimensions. so i will update this after pcb arrives, and i actually measure it and fine tune the parameters.
 
 # Assembly Overview:
-1.Get the Assembled PCB
+1. Get the Assembled PCB
 2. Print your PCB case or get it printed for smwhere the top and bottom part
-3.insert the PCB inside the case aligning it
+3. insert the PCB inside the case aligning it
 4. then, put the top back onto it
 # Cart:
 ![cart](images/cart.png)
